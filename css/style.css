@@ -1,0 +1,50 @@
+*{
+  box-sizing: border-box;
+}
+
+.background{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(45, 136, 156, 0.919);
+
+}
+
+.img-top{
+    width: 30%;
+    /* height: 500px; */
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    /* object-fit: fill; 
+    object-position: 100% 0; */
+    
+
+}
+
+.img-bottom{
+    width: 30%;
+    /* height: 40%; */
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}
+
+.card-img-victor{
+ width: 100px;
+ height: 100px ;
+ 
+}
+.card{
+  width: 350px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.bottom-word{
+  
+  font-weight: bold;
+}
+
+.bottom-word2{
+  font-size: small;
+}
